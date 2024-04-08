@@ -6,6 +6,10 @@ Projeto feito em Node + Typescript
 
 `npm i -g nodemon typescript ts-node`
 
+ou 
+
+`npm install -g nodemon typescript ts-node`
+
 ### Instalação
 
 `npm install`
